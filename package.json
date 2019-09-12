@@ -1,5 +1,5 @@
 {
-	"name": "array-move-e5",
+	"name": "array-move",
 	"version": "2.1.0",
 	"description": "Move an array item to a different position",
 	"license": "MIT",
@@ -7,7 +7,7 @@
 	"author": {
 		"name": "Alex Doan",
 		"email": "hoangdv1112@gmail.com",
-		"url": "alexdoan.io"
+		"url": "http://alexdoan.io"
 	},
 	"engines": {
 		"node": ">=8"
