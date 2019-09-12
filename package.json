@@ -1,0 +1,34 @@
+{
+	"name": "array-move",
+	"version": "2.1.0",
+	"description": "Move an array item to a different position",
+	"license": "MIT",
+	"repository": "hoangdv1112/array-move",
+	"author": {
+		"name": "Alex Doan",
+		"email": "hoangdv1112@gmail.com",
+		"url": "alexdoan.io"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"array",
+		"move",
+		"change",
+		"position",
+		"index"
+	],
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"tsd": "^0.7.1",
+		"xo": "^0.24.0"
+	}
+}
